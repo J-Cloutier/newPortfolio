@@ -10,7 +10,11 @@
   --color4:var(--lorange);
   --color5:var(--purp);
  
-
+/* new colors */
+  --grey: #cdcbd6;
+  --corange: #d96846;
+  --fgreen: #596235;
+  --ddbrown: #2f3020;
 
   /* First Theme */
         /* 1 */
